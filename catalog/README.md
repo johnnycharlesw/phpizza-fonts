@@ -1,1 +1,1 @@
-This directory contains files which support the PHPizza Fonts catalog.
+This directory contains the code for the PHPizza Fonts catalog
